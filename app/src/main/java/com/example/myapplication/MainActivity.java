@@ -13,6 +13,8 @@ public class MainActivity extends AppCompatActivity {
 
         //push ==send changed project to github
         //pull ==get changed project from github(when a other user changed project)
+        
+        //12345
     }
 
     private void test(){
