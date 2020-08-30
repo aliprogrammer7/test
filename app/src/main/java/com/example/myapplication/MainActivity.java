@@ -15,6 +15,11 @@ public class MainActivity extends AppCompatActivity {
         //pull ==get changed project from github(when a other user changed project)
         
         //12345
+
+
+        //green color file == گیت نمی شناسد
+        //blue color == فایل نیازمند آپدیت هست
+
     }
 
     private void test(){
